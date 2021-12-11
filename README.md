@@ -1,7 +1,7 @@
 # DualGuard
 [![Stars](https://img.shields.io/github/stars/Mikotwa/DualGuard?label=Stars)](https://github.com/Mikotwa)
 [![Release](https://img.shields.io/github/v/release/Mikotwa/DualGuard?label=Release)](https://github.com/Mikotwa/DualGuard/releases/latest)
-[![Download](https://img.shields.io/github/downloads/Mikotwa/DualGuard/total)](https://github.com/Xposed-Modules-Repo/com.dualguard/releases/latest)
+[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.dualguard/total)](https://github.com/Xposed-Modules-Repo/com.dualguard/releases/latest)
 [![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/DualGuard)
 [![License](https://img.shields.io/github/license/Dr-TSNG/Hide-My-Applist?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
 
